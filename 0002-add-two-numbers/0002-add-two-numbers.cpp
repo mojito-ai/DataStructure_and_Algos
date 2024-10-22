@@ -9,12 +9,6 @@
  * };
  */
 class Solution {
-
-    /**
-    * 9 9
-    * 9 9 
-    * 8 9 1
-    */
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int carry = 0;
