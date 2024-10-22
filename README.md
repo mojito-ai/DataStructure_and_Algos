@@ -27,6 +27,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0002-add-two-numbers) |
 | [1197-parsing-a-boolean-expression](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
