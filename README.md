@@ -25,6 +25,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
