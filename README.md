@@ -46,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -65,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 ## Depth-First Search
 |  |
