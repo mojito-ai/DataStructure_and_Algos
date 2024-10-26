@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
@@ -73,12 +76,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
