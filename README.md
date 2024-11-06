@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
+| [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
