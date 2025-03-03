@@ -38,6 +38,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1797-goal-parser-interpretation](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1797-goal-parser-interpretation) |
 | [2580-circular-sentence](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 ## Recursion
