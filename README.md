@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
+| [0551-student-attendance-record-i](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1302-delete-characters-to-make-fancy-string) |
