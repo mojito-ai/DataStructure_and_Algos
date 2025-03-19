@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
 | [0551-student-attendance-record-i](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1197-parsing-a-boolean-expression) |
@@ -62,6 +64,7 @@
 | [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Backtracking
