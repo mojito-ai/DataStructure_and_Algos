@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0136-single-number) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
@@ -103,5 +104,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0136-single-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
