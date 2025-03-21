@@ -42,7 +42,20 @@ public:
                 entries_box[boxIndex].insert(num);
             }
         }
+
         return true;
+    }
+
+    void printMap(const unordered_map<int, unordered_set<char>>& mp, string name) {
+        cout << name << ":\n";
+        for (const auto& row : mp) {
+            cout << "Index " << row.first << " -> { ";
+            for (const auto& num : row.second) {
+                cout << num << " ";
+            }
+            cout << "}\n";
+        }
+        cout << "----------------------\n";
     }
 
     bool brute_force(vector<vector<char>>& board) {
