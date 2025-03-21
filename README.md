@@ -63,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -112,4 +114,8 @@
 | ------- |
 | [0136-single-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0136-single-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
