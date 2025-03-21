@@ -90,6 +90,7 @@
 | [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
