@@ -99,6 +99,7 @@
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,4 +137,5 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
