@@ -90,6 +90,7 @@
 | [0001-two-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
@@ -133,9 +134,18 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3731-sum-of-variable-length-subarrays) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
