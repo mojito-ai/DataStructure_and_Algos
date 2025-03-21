@@ -83,6 +83,7 @@
 | [0007-reverse-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,4 +135,5 @@
 | [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
