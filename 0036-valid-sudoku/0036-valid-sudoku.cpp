@@ -29,7 +29,7 @@ public:
             for (int j = 0; j<9; j++) {
                 char num = board[i][j];
                 if (num == '.') continue; // Skip empty cells
-                int boxIndex = (i / 3) * 3 + (j/ 3) + 1; // 0-based index for boxes
+                int boxIndex = (i / 3) * 3 + (j/ 3); // 0-based index for boxes
 
                 // Check if num already exists in the row, column, or box
                 if (entries_row[i].count(num) || entries_col[j].count(num) || entries_box[boxIndex].count(num)) {
