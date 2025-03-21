@@ -1,18 +1,21 @@
 class NumArray {
 public:
-    vector<int> nums;
+    const static int N = 1e4 + 10;
+    static int pf[N]; // Declare static array
     NumArray(vector<int>& nums) {
-        this->nums = nums; // Correct assignment
+        // Calculating Prefix Sum
+        for(int i = 1; i<=nums.size(); i++) {
+            pf[i] = pf[i-1] + nums[i-1];
+        }
     }
     
     int sumRange(int left, int right) {
-        int sum = 0;
-        for (;left<=right; left++) {
-            sum += nums[left];
-        }
-        return sum;
+        return pf[right+1] - pf[left];
     }
 };
+
+int NumArray::pf[NumArray::N] = {0};
+
 
 /**
  * Your NumArray object will be instantiated and called as such:
