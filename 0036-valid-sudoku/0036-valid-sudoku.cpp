@@ -8,9 +8,44 @@ public:
     */
 
     /*
-    * Optimised Approach: 
+    * Optimised Approach: Precomputation
+    * Traverse the 2D array and make a hashmap for entries_row and entries_col and entries_box
+    * When you arrive at (i,j) then find if arr[i][j] exists in entries_row[i] && entries_col[j] && entries_box
+    * Instead of checking rows, columns, and boxes separately every time, you precompute and store the presence of numbers in:
+    * 1. entries_row[i] → Tracks numbers present in row i
+    * 2. entries_col[j] → Tracks numbers present in column j
+    * 3. entries_box[boxIndex] → Tracks numbers in its respective 3×3 box
     */
     bool isValidSudoku(vector<vector<char>>& board) {
+        return optimised_approach(board);
+    }
+
+    bool optimised_approach(vector<vector<char>>& board) {
+        unordered_map<int, unordered_set<char>> entries_row;
+        unordered_map<int, unordered_set<char>> entries_col;
+        unordered_map<int, unordered_set<char>> entries_box;
+
+        for(int i = 0; i<9; i++) {
+            for (int j = 0; j<9; j++) {
+                char num = board[i][j];
+                if (num == '.') continue; // Skip empty cells
+                int boxIndex = (i / 3) * 3 + (j/ 3) + 1; // 0-based index for boxes
+
+                // Check if num already exists in the row, column, or box
+                if (entries_row[i].count(num) || entries_col[j].count(num) || entries_box[boxIndex].count(num)) {
+                    return false;
+                }
+
+                // Mark num as seen in row, column, and box
+                entries_row[i].insert(num);
+                entries_col[j].insert(num);
+                entries_box[boxIndex].insert(num);
+            }
+        }
+        return true;
+    }
+
+    bool brute_force(vector<vector<char>>& board) {
         for(int i = 0; i<9; i++) {
             for(int j = 0; j<9; j++) {
                 if(board[i][j] != '.') {
