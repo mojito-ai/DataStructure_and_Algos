@@ -34,6 +34,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0290-word-pattern) |
 | [0551-student-attendance-record-i](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1197-parsing-a-boolean-expression) |
@@ -66,6 +67,7 @@
 | [0036-valid-sudoku](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
