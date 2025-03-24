@@ -89,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
@@ -104,6 +105,7 @@
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2727-number-of-senior-citizens](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2727-number-of-senior-citizens) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
