@@ -1,21 +1,26 @@
-#include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
-    int N;
-    cin >> N;
-
-    int arr[N];
-    for (int i = 0; i<N; i++) {
-        cin >> arr[i];
-    }
-
-    for(int i=0; i<N; i++) {
-        for (int j = 0; j<N; j++) {
-            for (int z = i; z<=j; z++) {
-                cout << arr[z] << " ";
+    int t;
+    cin >> t;
+    while (t--) {
+        string s;
+        cin >> s;
+        int nums[26] = {0};
+        bool flag = false;
+        // Algorithm A=B means every char in A is in B
+        // It means that if I have even 1 pair of repeating chars
+        // Then I can construct a special string by removing all other chars. 
+        for (int i = 0; i<s.size(); i++) {
+            nums[s[i]-'a']++;
+            if(nums[s[i]-'a'] == 2) {
+                flag = true;
+                break;
             }
-            cout << endl;
         }
+
+        if (flag) cout << "Yes" << endl;
+        else cout << "No" << endl;
     }
 }
