@@ -12,10 +12,10 @@ public:
         for (int n: answers) {
             if (n == 0) count++; // Because there is no rabbit of same color
             else if (mp.find(n) == mp.end()) {
-                mp[n] = n;
+                mp[n] = n; // I am putting in map that I can have N more of that same color possible. 1 is itself
                 count += n+1;
             } else {
-                mp[n] == 1 ? mp.erase(n) : mp[n]--;
+                mp[n] == 1 ? mp.erase(n) : mp[n]--; // Incase i have exhausted the limit, I just erase it from the map because now new color is needed. 
             }
         }
         return count;
