@@ -20,6 +20,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0242-valid-anagram) |
+| [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
@@ -54,6 +55,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
@@ -103,6 +105,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
+| [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -148,6 +151,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
+| [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -167,4 +171,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
