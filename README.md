@@ -104,6 +104,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
 | [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -151,6 +152,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
