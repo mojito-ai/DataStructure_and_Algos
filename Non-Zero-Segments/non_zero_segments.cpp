@@ -97,6 +97,7 @@ int main() {
         
         unordered_map<int, int> mp;
         int count = 0;
+        mp[0] = 1;
 
         for (int i = 0; i<N; i++) {
             cin >> arr[i];
@@ -107,6 +108,7 @@ int main() {
         for(auto &p : mp) {
             if (p.second >= 2) {
                 count += (p.second * (p.second-1))/2;
+                // Think about nC2 because we will take each pair into account.
             }
         }
 
