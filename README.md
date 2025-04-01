@@ -107,6 +107,7 @@
 | [0724-find-pivot-index](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
 | [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
+| [1206-corporate-flight-bookings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1206-corporate-flight-bookings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -154,6 +155,7 @@
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1184-car-pooling) |
+| [1206-corporate-flight-bookings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1206-corporate-flight-bookings) |
 | [2102-find-the-middle-index-in-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2102-find-the-middle-index-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3731-sum-of-variable-length-subarrays) |
