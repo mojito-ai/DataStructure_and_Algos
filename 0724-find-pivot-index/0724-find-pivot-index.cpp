@@ -4,7 +4,7 @@ public:
     int fwd[M+10];
     int bwd[M+10];
     int pivotIndex(vector<int>& nums) {
-        for(int i = 1; i<=nums.size(); i++) {
+        for(int i = 1; i<=nums.size(); i++) { // 1-based indexing
             fwd[i] = nums[i-1] + fwd[i-1];
             bwd[nums.size()-i+1] = nums[nums.size()-i] + bwd[nums.size()-i+2];
         }
