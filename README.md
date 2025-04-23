@@ -72,6 +72,7 @@
 | [0290-word-pattern](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1500-count-largest-group) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Backtracking
@@ -91,6 +92,7 @@
 | [0013-roman-to-integer](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/1500-count-largest-group) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mojito-ai/DataStructure_and_Algos/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
